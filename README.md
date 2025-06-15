@@ -3,9 +3,8 @@ Selamat datang di repository ini! Repository ini berisi kumpulan materi dan cont
 
 # 📦 Isi Repository
 Berikut adalah beberapa materi yang tersedia:
-python-dasar/ – Dasar-dasar Python (variabel, tipe data, fungsi, dll)
 php-dasar/ – Pengantar JavaScript
-projek-latihan/ – Kumpulan mini projek dan studi kasus
+cpp-dasar/
  
 # 💡 Tujuan
 Memberikan referensi belajar yang terstruktur
