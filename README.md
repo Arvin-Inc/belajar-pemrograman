@@ -8,9 +8,3 @@ Berikut adalah beberapa bahasa pemrograman yang tersedia:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
- 
-# 💡 Tujuan
-Memberikan referensi belajar yang terstruktur
-Membantu pelajar, mahasiswa, atau siapa pun yang ingin mulai belajar pemrograman
-Menyediakan contoh nyata yang bisa langsung dicoba dan dipelajari
